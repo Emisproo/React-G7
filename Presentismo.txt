@@ -4,8 +4,6 @@ María Fernanda Calzolari
 Brian Propato
 Mariano Jorajuría
 Virginia Pérez Bernachea
-<<<<<<< HEAD
 Jhosselyn Cortez Cruz
-=======
 Christian Albornoz
->>>>>>> 75b90f51da2070d435e2c06983a886fa3cc75be2
+
