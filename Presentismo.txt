@@ -6,3 +6,9 @@ Mariano Jorajuría
 Virginia Pérez Bernachea
 Jhosselyn Cortez Cruz
 Christian Albornoz
+<<<<<<< HEAD
+=======
+Cristhian Leandro Ponce
+Carolina Cucurullo
+
+>>>>>>> 4436eedd7733b13ab0b2beb991988559f7d1082b
